@@ -1,7 +1,7 @@
 Task 3b: Slides of partial project report EDA+/design+/architecture+/method)
-
+slides with ppt is uploaded here.
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/d/1EAbk3J7xol5WTAVveSVW1cwbJ5r9KQJOHrdGGztMe4I/edit#slide=id.g2cdebfe5697_1_21
+https://docs.google.com/presentation/d/1EAbk3J7xol5WTAVveSVW1cwbJ5r9KQJOHrdGGztMe4I/edit#slide=id.g2cdebfe5697_1_40 
 
 Group Number:
 17
