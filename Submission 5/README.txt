@@ -18,3 +18,6 @@ Course Title:
 A)Cost of publishing open access: how and why (PDF version of the certificate is uploaded here)
 B)How to write and review a methods article (PDF version of the certificate is uploaded here)
 C)How to write case reports (PDF version of the certificate is uploaded here)
+Protiva Das
+24166051
+CSE713
